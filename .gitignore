@@ -7,6 +7,9 @@ __pycache__/
 *.tmp
 .DS_Store
 .env
+/.venv/
+/dist/
+/build/
 
 # Manter apenas essas pastas e arquivos
 !/data/
