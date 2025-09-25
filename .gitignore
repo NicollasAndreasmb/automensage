@@ -1,0 +1,17 @@
+# Ignorar arquivos desnecessários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+.DS_Store
+.env
+
+# Manter apenas essas pastas e arquivos
+!/data/
+!/reports/
+!/src/
+!README.md
+!requirements.txt
+!.gitignore

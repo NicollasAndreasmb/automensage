@@ -1,0 +1,9 @@
+pandas
+openpyxl
+pywhatkit
+phonenumbers
+python-dotenv
+reportlab
+pyautogui
+pygetwindow
+pyinstaller
